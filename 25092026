@@ -1,0 +1,253 @@
+Script started on 2026-09-25 11:56:14+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="204" LINES="55"]
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd shfolder
+[?2004lbash: cd: shfolder: No such file or directory
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ ls
+[?2004l2182026   [0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  os1408    prog1     prog2     program2  [01;34msnap[0m       [01;34mtree[0m    [01;34myuvi[0m             [01;31myuvrajsinh_4012.zip[0m
+25092026  [01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m    [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ mkf[Kdir shd[Kfolder
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ mkdir shfolderls[K
+[?2004l2182026   [0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  os1408    prog1     prog2     program2  [01;34mshfolder[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+25092026  [01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m    [01;34msnap[0m      [01;34mtree[0m       [01;34myuvi[0m    [01;31myuvrajsinh_4012.zip[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ lsmkdir shfolderls[Kcd shfolder
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/shfolder[00m$ arithmaticgarithmaticearithmaticdarithmaticiarithmatictarithmatic arithmatic[C[C[C[C[C[C[C[C[C[C.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/shfolder[00m$ `[K![Kcd ~
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ ls
+[?2004l2182026   [0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  os1408    prog1     prog2     program2  [01;34msnap[0m       [01;34mtree[0m    [01;34myuvi[0m             [01;31myuvrajsinh_4012.zip[0m
+25092026  [01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m    [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ c [Kd yuvrajsinh[C[C[C_4012
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ ls
+[?2004l[0m[01;34mabc[0m  [01;34mfoca[0m  [01;34mmovies[0m  [01;34moslab[0m  [01;34mtabtable[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ mkdir n[Kshfolder
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ cd [K[K[Kla[Ks
+[?2004l[0m[01;34mabc[0m  [01;34mfoca[0m  [01;34mmovies[0m  [01;34moslab[0m  [01;34mshfolder[0m  [01;34mtabtable[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ cd shfolder
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ a[Karithmatic[Kc [K[K[K[K[K[K[K[K[K[K[Ks1_aritham[K=[K[Kmaticgs1_arithmatices1_arithmaticds1_arithmaticis1_arithmaticts1_arithmatic s1_arithmatic[C[C[C[C[C[C[C[C[C[C[C[C[C.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s1_arithmatic [K.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+
+s1_arithmatic.sh: 7: add: not found
+addition is : 
+s1_arithmatic.sh: 10: sub: not found
+subtraction is : 
+s1_arithmatic.sh: 13: mul: not found
+multiplication is : 
+s1_arithmatic.sh: 16: div: not found
+division is : 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s1_arithmatic.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+5
+s1_arithmatic.sh: 7: add: not found
+addition is : 
+s1_arithmatic.sh: 10: sub: not found
+subtraction is : 
+s1_arithmatic.sh: 13: mul: not found
+multiplication is : 
+s1_arithmatic.sh: 16: div: not found
+division is : 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s1_arithmatic.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+5
+s1_arithmatic.sh: 7: add: not found
+addition is : 
+s1_arithmatic.sh: 10: sub: not found
+subtraction is : 
+expr: syntax error: unexpected argument ‘/bin’
+s1_arithmatic.sh: 13: mul: not found
+multiplication is : 
+s1_arithmatic.sh: 16: div: not found
+division is : 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s1_arithmatic.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+5
+s1_arithmatic.sh: 7: add: not found
+addition is : 
+s1_arithmatic.sh: 10: sub: not found
+subtraction is : 
+expr: syntax error: unexpected argument ‘/bin’
+s1_arithmatic.sh: 13: mul: not found
+multiplication is : 
+s1_arithmatic.sh: 16: div: not found
+division is : 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s1_arithmatic.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+5
+addition is : 15
+subtraction is : 5
+expr: syntax error: unexpected argument ‘/bin’
+multiplication is : 
+division is : 2
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s1_arithmatic.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+5
+addition is : 15
+subtraction is : 5
+multiplication is : 50
+division is : 2
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ GEDIT[K=[K[K[K[K[Kgedit practic[Ks[Kce_![K1.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ cd [K[K[Kgedit practice_1.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practic_1.sh
+[?2004lsh: 0: cannot open practic_1.sh: No such file
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practic_1.sh[C[Ce_1.sh
+[?2004lenter the number 1 : 
+10
+enter the number 2 : 
+5
+ numbers are not equal 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ gedit s2_oddeven.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s32[K[K2_oddeven.h[Ksh
+[?2004l enter number 
+10
+ number is even 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s2_oddeven.sh
+[?2004lenter number : 
+5
+number is odd 
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh s2_oddeven.sh[3@gedit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Psh practice_1.sh[C[1P.sh2.sh[C[C[1P practice_2.sh[1P practice_2.shg practice_2.she practice_2.shd practice_2.shi practice_2.sht practice_2.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sg[Kh practice_@[K2.sh
+[?2004lenter number 1 : 
+5
+enter number 2 : 
+4
+enter number 3 : 
+3
+practice_2.sh: 17: Syntax error: "then" unexpected
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5
+enter number 2 : 
+3
+enter number 3 : 
+2
+n1 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+4
+enter number 2 : 
+5
+enter number 3 : 
+3
+practice_2.sh: 13: [: Illegal number: n2
+n3 3 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ 
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5
+enter number 2 : 
+3
+enter number 3 : 
+4
+n1 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5 4
+enter number 2 : 
+5
+enter number 3 : 
+3
+practice_2.sh: 13: [: Illegal number: n3
+n3 3 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5
+enter number 2 : 
+4
+enter number 3 : 
+3
+n1 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+4
+enter number 2 : 
+5
+enter number 3 : 
+3
+n2 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+3
+enter number 2 : 
+4
+enter number 3 : 
+5
+n3 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+10
+enter number 2 : 
+10
+enter number 3 : 
+10
+n3 10 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5
+enter number 2 : 
+4
+enter number 3 : 
+3
+practice_2.sh: 18: Syntax error: "else" unexpected (expecting "then")
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5
+enter number 2 : 
+4
+enter number 3 : 
+3
+n1 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+5 4
+enter number 2 : 
+5
+enter number 3 : 
+3
+n2 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+3
+enter number 2 : 
+4
+enter number 3 : 
+5
+n3 5 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+1
+enter number 2 : 
+2
+enter number 3 : 
+1
+n2 2 is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh
+[?2004lenter number 1 : 
+1
+enter number 2 : 
+1
+enter number 3 : 
+1
+numbers are same
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ sh practice_2.sh[3@gedit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.sh3.sh
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ gedit practice_3.sh[Kgedit practice_3.sh[3Psh practice_2.sh[1P.sh4.sh[1P.sh3.sh
+[?2004lenter number 1 : 
+
+enter number 2 : 
+
+enter number 3 : 
+
+n1  is bigger
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/shfolder[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/shfolder[00m$ [?2004l
+exit
+
+Script done on 2026-09-25 13:12:24+05:30 [COMMAND_EXIT_CODE="0"]

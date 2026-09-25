@@ -1,0 +1,93 @@
+Script started on 2026-08-07 12:39:57+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="204" LINES="53"]
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+[01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           prog1     prog2     program2  [01;34msnap[0m    [01;34mtree[0m       [01;34myuvi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd yuvrajsinh_4012
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ ls
+[?2004l[0m[01;34mfoca[0m  [01;34mmovies[0m  [01;34moslab[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ cd movies
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies[00m$ ls
+[?2004l[0m[01;34menglish[0m  [01;34mgujarati[0m  [01;34mhindi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies[00m$ c d[K[K[Kd[Kd [K[Kcd english
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english[00m$ ls
+[?2004l[0m[01;34mconceptual[0m  [01;34mentertainment[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english[00m$ ls[K[Kcd conceptual
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ cd before2005
+[?2004lbash: cd: before2005: No such file or directory
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ cd before2005[1P before2005[1P before2005m before2005k before2005d before2005i before2005r before2005
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ mkdir before2005[K[K[K[K[K[K[K[K[K[Klatest
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ ls
+[?2004l[0m[01;34mbefore2005[0m  [01;34mlatest[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ ++++++++++++++++++++++++++[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd before2005
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/before2005[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual/before2005[00m$ cat > movienames
+[?2004l1. hihi
+2.haha
+3.hhu  h uhu
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/before2005[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual/before2005[00m$ ls 
+[?2004lmovienames
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/before2005[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual/before2005[00m$ cd ..
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ cd latest
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/latest[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual/latest[00m$ cd latest[4P..[2Pls cat > movienames
+[?2004l1. jkk
+2. hhh
+4 3. rrr
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/latest[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual/latest[00m$ ls
+[?2004lmovienames
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/latest[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual/latest[00m$ cd ..
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ cd ..
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english[00m$ cat[K[K[Kc[Kcd ![K~
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+[01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           prog1     prog2     program2  [01;34msnap[0m    [01;34mtree[0m       [01;34myuvi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ c [Kd lab1outut[K[Kput.txt
+[?2004lbash: cd: lab1output.txt: Not a directory
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd lab1output.txt[K[K[K[K
+[?2004lbash: cd: lab1output: No such file or directory
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd lab1output[C[1P lab1output[1P lab1outputc lab1outputa lab1outputt lab1output[C[C[C[C[C[C[C[C[C[C[C.txt
+[?2004lScript started on 2026-08-07 12:39:57+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="204" LINES="53"]
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+[01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           prog1     prog2     program2  [01;34msnap[0m    [01;34mtree[0m       [01;34myuvi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd yuvrajsinh_4012
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ ls
+[?2004l[0m[01;34mfoca[0m  [01;34mmovies[0m  [01;34moslab[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ cd movies
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies[00m$ ls
+[?2004l[0m[01;34menglish[0m  [01;34mgujarati[0m  [01;34mhindi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies[00m$ c d[K[K[Kd[Kd [K[Kcd english
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english[00m$ ls
+[?2004l[0m[01;34mconceptual[0m  [01;34mentertainment[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english[00m$ ls[K[Kcd conceptual
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ cd before2005
+[?2004lbash: cd: before2005: No such file or directory
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ cd before2005[1P before2005[1P before2005m before2005k before2005d before2005i before2005r before2005
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ mkdir before2005[K[K[K[K[K[K[K[K[K[Klatest
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ ls
+[?2004l[0m[01;34mbefore2005[0m  [01;34mlatest[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/english/conceptual[00m$ ++++++++++++++++++++++++++[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd before2005
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/english/conceptual/before2005[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd ~
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ ld[Ks
+[?2004l[0m[01;34m4[0m     calculator  [01;34mdar2[0m  [01;34mdar4[0m   [01;34mDesktop[0m    [01;34mDownloads[0m  lab1output.txt  [01;34mPictures[0m  [01;32mprog1.sh[0m  program1  [01;34mPublic[0m  [01;34mTemplates[0m  [01;34mVideos[0m  [01;34myuvrajsinh_4012[0m
+[01;34m4012[0m  [01;34mdar1[0m        [01;34mdar3[0m  [01;34mdbca1[0m  [01;34mDocuments[0m  [01;34mfiles[0m      [01;34mMusic[0m           prog1     prog2     program2  [01;34msnap[0m    [01;34mtree[0m       [01;34myuvi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ cd yuvrajsinh_4012
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ lks[K[Ks
+[?2004l[0m[01;34mfoca[0m  [01;34mmovies[0m  [01;34moslab[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012[00m$ cd movies
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies[00m$ ls
+[?2004l[0m[01;34menglish[0m  [01;34mgujarati[0m  [01;34mhindi[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies[00m$ ls[K[Kcd gujarati
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/gujarati[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/gujarati[00m$ ls
+[?2004l[0m[01;34mconceptual[0m  [01;34mentertainment[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/gujarati[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/gujarati[00m$ cd entertainment
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/gujarati/entertainment[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/gujarati/entertainment[00m$ ls
+[?2004l[0m[01;34mbefore2005[0m  [01;34mlatest[0m
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/gujarati/entertainment[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/gujarati/entertainment[00m$ c [Kd latest
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/gujarati/entertainment/latest[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/gujarati/entertainment/latest[00m$ cat > d latestls[Kcd entertainmentls[Kcd gujaratils[Kcd moviesls[Kcd yuvrajsinh_4012ls[Kcd ~at lab1output.txt[5Pd lab1output.txtls[Kcd ~..[3Plscat > movienames[7Pd latestat > movienames
+[?2004l1. yyy
+2. aaa
+3.zzz^[[D^[[D         z^[[D^[[D^[[D^[[D                
+[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~/yuvrajsinh_4012/movies/gujarati/entertainment/latest[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~/yuvrajsinh_4012/movies/gujarati/entertainment/latest[00m$ cd ~
+[?2004l[?2004h]0;mefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5: ~[01;32mmefgi@mefgi-ThinkCentre-neo-50a-24-Gen-5[00m:[01;34m~[00m$ [?2004l
+exit
+
+Script done on 2026-08-07 13:07:23+05:30 [COMMAND_EXIT_CODE="0"]

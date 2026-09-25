@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo "Enter first number:"
+read num1
+
+echo "Enter second number:"
+read num2
+
+sum=$(echo "$num1 + $num2" | bc)
+sub=$(echo "$num1 - $num2" | bc)
+mul=$(echo "$num1 * $num2" | bc)
+
+if [ "$num2" -ne 0 ]; then
+    div=$(echo "scale=2; $num1 / $num2" | bc)
+else
+    div="Undefined (cannot divide by zero)"
+fi
+
+echo "Addition: $sum"
+echo "Subtraction: $sub"
+echo "Multiplication: $mul"
+echo "Division: $div"
